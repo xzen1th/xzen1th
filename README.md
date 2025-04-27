@@ -44,7 +44,7 @@
 
 <h2 align=center>⭐ sᴏᴄɪᴀʟ </h2>
 <p align=center>
-<a href="https://instagram.com/xzen1th" target="_blank">
+<a href="https://instagram.com/xz1.xyz" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
 </a>
 <a href="https://www.tiktok.com/@xz1.xyz" target="_blank">
