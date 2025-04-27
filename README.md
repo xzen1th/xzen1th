@@ -1,7 +1,7 @@
 <p align = center ><img src="https://i.imgur.com/frxLfVj.jpg"> </p>
 <h2 align = center>👋 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <p align=center>
-<img width="200" alt="xzen1th" src="https://i.imgur.com/eNuX7qz.png">
+<img width="300" alt="xzen1th" src="https://i.imgur.com/eNuX7qz.png">
 </p>
 <p align = center>
 🐱‍👤 ɴᴀᴍᴇ: ᴀʟᴇᴋsᴀɴᴅᴀʀ ᴍɪćɪć<br>
