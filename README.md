@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/RAM-12GB_DDR3_1600MHz-purple?style=for-the-badge&logo=ghost" alt="12GB DDR3" /><br>
 <img src="https://img.shields.io/badge/OS-Arch_Linux-black?style=for-the-badge&logo=arch-linux" alt="Arch Linux"/><br>
 <img src="https://img.shields.io/badge/Mouse-G203_lightsync-teal?style=for-the-badge&logo=logitech" alt="Logitech G203 Lightsync"><br>
-<img src="https://img.shields.io/badge/Keyboard-Paragon_LiteTKL-red?style=for-the-badge&logo=" alt="Paragon LiteTKL">
+<img src="https://img.shields.io/badge/Keyboard-Paragon_LiteTKL-red?style=for-the-badge&logo=ghost" alt="Paragon LiteTKL">
 </p>
 
 <h2 align=center>⭐ sᴏᴄɪᴀʟ </h2>
