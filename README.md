@@ -50,7 +50,7 @@
 <a href="https://www.tiktok.com/@xz1.xyz" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok" alt="TikTok">
 </a>
-<a href="https://www.youtube.com/@xzen1th" target="_blank">
+<a href="https://www.youtube.com/@xz1_xyz" target="_blank">
 <img src="https://img.shields.io/badge/Youtube-a31414?style=for-the-badge&logo=youtube" alt="YouTube">
 </a>
 </p>
