@@ -16,6 +16,7 @@
 <p align=center>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PhotoShop&color=737BE1&logo=adobephotoshop&logoColor=FFFFFF&label=" alt="photoshop"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 </p>
 <p align=center>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -28,7 +29,6 @@
 
 <h2 align=center>🚀 ʟᴇᴀʀɴɪɴɢ</h2>
 <p align=center>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity">
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal">
 </p>
