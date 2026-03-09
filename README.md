@@ -27,7 +27,7 @@
 <h2 align=center>💻 ᴡᴏʀᴋsᴘᴀᴄᴇ sᴘᴇᴄs</h2>
 <p align=center><img src="https://img.shields.io/badge/Intel_Core-i5_6600K-0071C5?style=for-the-badge&logo=intel" alt="CPU: Intel Core i5-6600K" /> <br>
 <img src="https://img.shields.io/badge/NVIDIA-GeForce_GTX1660_Super-green?style=for-the-badge&logo=nvidia" alt="GPU: NVIDIA GTX 1660 Super 6GB" /> <br>
-<img src="https://img.shields.io/badge/RAM-8GB_DDR4_1600MHz-purple?style=for-the-badge&logo=ghost" alt="RAM: 8GB DDR4" /><br>
+<img src="https://img.shields.io/badge/RAM-8GB_DDR4_2133MHz-purple?style=for-the-badge&logo=ghost" alt="RAM: 8GB DDR4" /><br>
 <img src="https://img.shields.io/badge/OS-Arch_Linux-black?style=for-the-badge&logo=arch-linux" alt="OS: Arch Linux"/><br>
 <img src="https://img.shields.io/badge/Mouse-Marvo_Capo_40_(G965W)-red?style=for-the-badge" alt="Mouse: Marvo Capo 40 (G965W)"><br>
 <img src="https://img.shields.io/badge/Keyboard-Paragon_LiteTKL_(Custom)-red?style=for-the-badge&logo=ghost" alt="Keyboard: Paragon LiteTKL (Custom)"><br>
