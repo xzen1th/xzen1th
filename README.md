@@ -25,12 +25,15 @@
 </p>
 
 <h2 align=center>💻 ᴡᴏʀᴋsᴘᴀᴄᴇ sᴘᴇᴄs</h2>
-<p align=center><img src="https://img.shields.io/badge/Intel_Core_i5-6600K-0071C5?style=for-the-badge&logo=intel" alt="Intel Core i5-6600K" /> <br>
-<img src="https://img.shields.io/badge/NVIDIA-GeForce_GTX1660_Super-green?style=for-the-badge&logo=nvidia" alt="NVIDIA GTX 1660 Super 6GB" /> <br>
-<img src="https://img.shields.io/badge/RAM-8GB_DDR4_1600MHz-purple?style=for-the-badge&logo=ghost" alt="8GB DDR4" /><br>
-<img src="https://img.shields.io/badge/OS-Arch_Linux-black?style=for-the-badge&logo=windows" alt="Arch Linux"/><br>
-<img src="https://img.shields.io/badge/Mouse-Marvo_Capo_40_(G965W)-red?style=for-the-badge" alt="Marvo Capo 40 (G965W)"><br>
-<img src="https://img.shields.io/badge/Keyboard-Paragon_LiteTKL-red?style=for-the-badge&logo=ghost" alt="Paragon LiteTKL">
+<p align=center><img src="https://img.shields.io/badge/Intel_Core_i5-6600K-0071C5?style=for-the-badge&logo=intel" alt="CPU: Intel Core i5-6600K" /> <br>
+<img src="https://img.shields.io/badge/NVIDIA-GeForce_GTX1660_Super-green?style=for-the-badge&logo=nvidia" alt="GPU: NVIDIA GTX 1660 Super 6GB" /> <br>
+<img src="https://img.shields.io/badge/RAM-8GB_DDR4_1600MHz-purple?style=for-the-badge&logo=ghost" alt="RAM: 8GB DDR4" /><br>
+<img src="https://img.shields.io/badge/OS-Arch_Linux-black?style=for-the-badge&logo=arch-linux" alt="OS: Arch Linux"/><br>
+<img src="https://img.shields.io/badge/Mouse-Marvo_Capo_40_(G965W)-red?style=for-the-badge" alt="Mouse: Marvo Capo 40 (G965W)"><br>
+<img src="https://img.shields.io/badge/Keyboard-Paragon_LiteTKL_(Custom)-red?style=for-the-badge&logo=ghost" alt="Keyboard: Paragon LiteTKL (Custom)"><br>
+<br>
+<img src="https://img.shields.io/badge/Laptop_1-Lenovo_Thinkpad_X240-black?style=for-the-badge&logo=lenovo" alt="Laptop 1: Lenovo Thinkpad X240"><br>
+<img src="https://img.shields.io/badge/Laptop_2-Lenovo_Ideapad_510_15isk-black?style=for-the-badge&logo=lenovo" alt="Laptop 2: Lenovo Ideapad 510-15isk"><br>
 </p>
 
 <h2 align=center>⭐ sᴏᴄɪᴀʟ </h2>
